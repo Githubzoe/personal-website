@@ -259,7 +259,7 @@ a {
 .timeline::after {
   content: "";
   position: absolute;
-  left: -58px;
+  left: -53px;
   width: 10px;
   height: 10px;
   border-radius: 100%;
